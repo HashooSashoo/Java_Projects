@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MatrixSuperclass
+comment0.text=\r\n\ This\ is\ a\ superclass\ for\ all\ the\ execute\ functions\ of\ the\ Matrix\ programs\ <br>\r\n\ All\ code\ by\:\ Zakariya\ Hashmi\r\n
+comment1.params=
+comment1.target=MatrixSuperclass()
+comment2.params=
+comment2.target=void\ execute()
+comment2.text=\r\n\ the\ method\ shared\ with\ all\ other\ programs\r\n
+comment3.params=
+comment3.target=boolean\ stopOrNo()
+numComments=4

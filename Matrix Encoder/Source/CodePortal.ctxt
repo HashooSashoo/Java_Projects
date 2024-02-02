@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CodePortal
+comment0.text=\r\n\ The\ portal\ for\ all\ of\ my\ code\ for\ Linear\ Algebra\ <br>\r\n\ All\ code\ by\:\ Zakariya\ Hashmi\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ method\r\n
+comment2.params=
+comment2.target=void\ doCodes()
+comment2.text=\r\n\ displays\ all\ of\ the\ codes\ in\ the\ codeNames\ array\ w/\ printCodes()\ method\ <br>\r\n\ has\ you\ pick\ a\ game\ to\ play\ with\ pickCode()\ method\ <br>\r\n\ asks\ you\ if\ you\ want\ to\ play\ again\ w/\ doAgain()\ method\ <br>\r\n\ its\ really\ that\ easy\ lol\r\n
+comment3.params=
+comment3.target=void\ printCodes()
+comment3.text=\r\n\ prints\ all\ the\ codes\ in\ the\ codeNames\ array\r\n
+comment4.params=
+comment4.target=void\ pickCode()
+comment4.text=\r\n\ this\ method\ has\ you\ enter\ a\ number\ to\ pick\ and\ execute\ the\ code\ that\ you\ want\r\n
+comment5.params=
+comment5.target=void\ doAgain()
+comment5.text=\r\n\ the\ method\ that\ asks\ if\ you\ want\ to\ execute\ a\ code\ again\ <br>\r\n\ executes\ the\ doGames()\ method\ if\ you\ want\ to\r\n
+numComments=6
