@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EightBall
+comment0.text=\r\n\ @author\ Zakariya\ Hashmi\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ local\ main\ method\r\n
+comment2.params=
+comment2.target=void\ scanner()
+comment2.text=\r\n\ the\ scanner\ method\ to\ ask\ the\ question\ from\ the\ user\r\n
+comment3.params=
+comment3.target=void\ pickResponse()
+comment3.text=\r\n\ prints\ a\ random\ response\ from\ the\ responses\ array\ right\ after\ the\ scanner()\ prompt\r\n
+comment4.params=
+comment4.target=void\ execute()
+comment4.text=\r\n\ the\ whole\ eight\ ball\ game\r\n
+numComments=5

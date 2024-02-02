@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameParent
+comment0.text=\r\n\ @author\ Zakariya\ Hashmi\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=GameParent()
+comment1.text=\r\n\ just\ a\ default\ constructor,\ wont\ use\ at\ all\ lol\r\n
+comment2.params=newFreq\ duration
+comment2.target=void\ makeTheSound(int,\ int)
+comment2.text=\r\n\ this\ method\ makes\ a\ sine\ wave\ sound<br>\r\n\ you\ must\ specify\ both\ the\ frequency\ (in\ hertz)\ and\ the\ duration\ (in\ milliseconds)<br>\r\n\ i\ got\ this\ from\ stackoverflow,\ so\ I\ don't\ know\ how\ the\ hell\ it\ works\ lol\r\n
+comment3.params=beforeAsking
+comment3.target=void\ playAgain(java.lang.String)
+comment3.text=\r\n\ asks\ if\ the\ player\ wants\ to\ play\ again.\ if\ yes,\ clears\ board\ and\ calls\ execute()\ method<br>\r\n\ the\ default\ playAgain\ method,\ any\ modifications\ are\ made\ in\ the\ respective\ game\r\n
+comment4.params=
+comment4.target=void\ execute()
+comment4.text=\r\n\ the\ parent\ method\ for\ all\ games\ that\ will\ execute<br>\r\n\ this\ is\ so\ I\ can\ put\ all\ the\ game\ objects\ in\ an\ array\r\n
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Simulations
+comment0.text=\r\n\ @author\ Zakariya\ Hashmi\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ subsetCalculator()
+comment1.text=\r\n\ calculates\ the\ number\ of\ subsets\ from\ a\ number\ from\ 1\ to\ parameter\ that\ are\ divisible\ by\ 5\r\n
+comment2.params=
+comment2.target=int\ sumsDivide5()
+numComments=3

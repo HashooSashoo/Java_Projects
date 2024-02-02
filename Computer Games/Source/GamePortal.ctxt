@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GamePortal
+comment0.text=\r\n\ @author\ Zakariya\ Hashmi\r\n\ @version\ 1.4\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ method\r\n
+comment2.params=
+comment2.target=void\ playGames()
+comment2.text=\r\n\ displays\ all\ of\ the\ games\ in\ the\ games\ array\ w/\ printGames()\ method<br>\r\n\ has\ you\ pick\ a\ game\ to\ play\ with\ pickGame()\ method<br>\r\n\ asks\ you\ if\ you\ want\ to\ play\ again\ w/\ playAgain()\ method<br>\r\n\ its\ really\ that\ easy\ lol\r\n
+comment3.params=
+comment3.target=void\ printGames()
+comment3.text=\r\n\ prints\ all\ the\ games\ in\ the\ gameNames\ array\r\n
+comment4.params=
+comment4.target=void\ pickGame()
+comment4.text=\r\n\ this\ method\ has\ you\ enter\ a\ number\ to\ pick\ and\ execute\ the\ game\ that\ you\ want\r\n
+comment5.params=
+comment5.target=void\ playAgain()
+comment5.text=\r\n\ the\ method\ that\ asks\ if\ you\ want\ to\ play\ again<br>\r\n\ executes\ the\ playGames()\ method\ if\ you\ want\ to\r\n
+numComments=6
